@@ -1,0 +1,10 @@
+D:\C#\Liage3_2021\ConsoleApp1\bin\Debug\netcoreapp2.1\Fondamentaux.deps.json
+D:\C#\Liage3_2021\ConsoleApp1\bin\Debug\netcoreapp2.1\Fondamentaux.runtimeconfig.json
+D:\C#\Liage3_2021\ConsoleApp1\bin\Debug\netcoreapp2.1\Fondamentaux.runtimeconfig.dev.json
+D:\C#\Liage3_2021\ConsoleApp1\bin\Debug\netcoreapp2.1\Fondamentaux.dll
+D:\C#\Liage3_2021\ConsoleApp1\bin\Debug\netcoreapp2.1\Fondamentaux.pdb
+D:\C#\Liage3_2021\ConsoleApp1\obj\Debug\netcoreapp2.1\Fondamentaux.csproj.CoreCompileInputs.cache
+D:\C#\Liage3_2021\ConsoleApp1\obj\Debug\netcoreapp2.1\Fondamentaux.AssemblyInfoInputs.cache
+D:\C#\Liage3_2021\ConsoleApp1\obj\Debug\netcoreapp2.1\Fondamentaux.AssemblyInfo.cs
+D:\C#\Liage3_2021\ConsoleApp1\obj\Debug\netcoreapp2.1\Fondamentaux.dll
+D:\C#\Liage3_2021\ConsoleApp1\obj\Debug\netcoreapp2.1\Fondamentaux.pdb
